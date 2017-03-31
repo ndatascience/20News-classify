@@ -21,9 +21,9 @@ Classify the 20 news data using machine learning algorithms. The goal is to extr
 
 ### Usage
 - Run the 20News_classify.ipnyb file and go through the following steps:
-    - Data preprocessing
-    - Data Explortion
-    - Classifcation using various methods 
+    - Data Preprocessing
+    - Data Exploration
+    - Classification using various methods 
         - comparison of accurany score on test data
     - Feature Importance
     - Best parameters using Grid search pipeline

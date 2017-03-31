@@ -1,5 +1,5 @@
 
-# 20News Classifcation
+# 20News Classification
 
 Classify the 20 news data using machine learning algorithms. The goal is to extract proper features and build an effective model to assign each piece of news to one of the 20 categories.  
 

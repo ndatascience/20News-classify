@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+sklearn
+string
+os
+codecs
+matplotlib
